@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('back.jpg') no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  background: rgba(68, 66, 66, 0.9);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+input, select {
+  margin: 8px 0;
+  padding: 8px;
+}
+label {
+  margin-top: 10px;
+}
+button {
+  margin-top: 15px;
+  padding: 10px;
+  background: gold;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}

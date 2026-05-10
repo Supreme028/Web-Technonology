@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Register/Login Form</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Register Form -->
+    <form>
+      <h3>Register</h3>
+      <input type="text" placeholder="Username" required>
+      <input type="email" placeholder="Email" required>
+      <input type="password" placeholder="Password" minlength="6" required>
+      <input type="password" placeholder="Confirm Password" required>
+      <select>
+        <option>Female</option>
+        <option>Male</option>
+      </select>
+      <label><input type="checkbox" required> Accept terms</label>
+      <button type="submit">Submit</button>
+    </form>
+
+    <!-- Login Form -->
+    <form>
+      <h3>Login</h3>
+      <input type="email" placeholder="Email" required>
+      <input type="password" placeholder="Password" required>
+      <label><input type="checkbox"> Remember me</label>
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</body>
+</html>
