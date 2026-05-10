@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>The Color Purple</title>
+        <author>Alice Walker</author>
+        <isbn>1232-32432-42342</isbn>
+        <publisher>Ducker House</publisher>
+        <edition>3rd</edition>
+        <price>11.37</price>
+    </book>
+</library>

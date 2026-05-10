@@ -1,0 +1,26 @@
+<playlist>
+    <song>
+        <name>John</name>
+        <singer>King</singer>
+        <composed_by>Freddy </composed_by>
+        <length>3:45</length>
+    </song>
+    <song>
+        <name>Black Magic</name>
+        <singer>Johnathon</singer>
+        <composed_by>Marget Miller</composed_by>
+        <length>3:40</length>
+    </song>
+    <song>
+        <name>Safayer</name>
+        <singer>Ed Sheren</singer>
+        <composed_by>Mark Miller</composed_by>
+        <length>4:327</length>
+    </song>
+    <song>
+        <name>Therapy</name>
+        <singer>Andew Tate</singer>
+        <composed_by>Lamar</composed_by>
+        <length>4:33</length>
+    </song>
+</playlist>
